@@ -1,6 +1,5 @@
 # Relógio Digital em Python (Tkinter)
 
-![Relógio Digital](https://via.placeholder.com/800x400?text=Rel%C3%B3gio+Digital+Python)
 
 ## 📌 Sobre o Projeto
 
