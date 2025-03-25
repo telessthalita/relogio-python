@@ -1,21 +1,17 @@
-# Relógio Digital em Python (Tkinter)
+# Relógio Digital Estilizado em Python (Tkinter)
 
 
 ## 📌 Sobre o Projeto
 
-Este projeto consiste em um **relógio digital** simples desenvolvido em **Python** utilizando a biblioteca **Tkinter** para interface gráfica. Ele exibe o horário em tempo real e atualiza automaticamente a cada segundo.
+Este projeto é um **relógio digital estilizado** desenvolvido em **Python** utilizando a biblioteca **Tkinter** para interface gráfica. O relógio exibe a hora e a data em tempo real, com a possibilidade de alternar entre o formato de 12 horas e 24 horas, além de alternar entre o modo claro e escuro para personalização da interface.
 
 ## 🚀 Tecnologias Utilizadas
 
 - **Python** (versão 3.x)
 - **Tkinter** (interface gráfica nativa do Python)
 
-## 📂 Estrutura do Código
+## 📎 Funcionalidades
 
-O código funciona da seguinte maneira:
-1. Cria uma interface gráfica com **Tkinter**.
-2. Obtém a hora atual utilizando a função `strftime()` da biblioteca `time`.
-3. Atualiza o relógio a cada segundo automaticamente usando `after(1000, update_time)`.
-
-
-
+- **Formato de Hora**: Permite alternar entre os formatos de 12h e 24h.
+- **Modo Claro/Escuro**: Alterna entre os modos claro e escuro para personalizar a aparência do relógio.
+- **Design Moderno**: Botões com bordas suaves e um layout limpo, projetado para ser confortável e visualmente agradável.
